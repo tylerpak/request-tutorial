@@ -1,3 +1,5 @@
+# Make sure to install 'requests' as per instructions on google doc
+
 import requests
 from requests.exceptions import HTTPError
 from getpass import getpass
